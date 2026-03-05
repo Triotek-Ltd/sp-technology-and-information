@@ -1,0 +1,112 @@
+[
+  {
+    "module_code": "sp7_8",
+    "module_label": "SP7.8 - AI Model Management",
+    "module_title": "AI Model Management",
+    "module_slug": "ai_model_management",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_2",
+    "module_label": "SP7.2 - API Management",
+    "module_title": "API Management",
+    "module_slug": "api_management",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_3",
+    "module_label": "SP7.3 - Cloud Infrastructure Monitoring",
+    "module_title": "Cloud Infrastructure Monitoring",
+    "module_slug": "cloud_infrastructure_monitoring",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_6",
+    "module_label": "SP7.6 - Cybersecurity Monitoring",
+    "module_title": "Cybersecurity Monitoring",
+    "module_slug": "cybersecurity_monitoring",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_7",
+    "module_label": "SP7.7 - Data Analytics Engine",
+    "module_title": "Data Analytics Engine",
+    "module_slug": "data_analytics_engine",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_1",
+    "module_label": "SP7.1 - DevOps Integration",
+    "module_title": "DevOps Integration",
+    "module_slug": "devops_integration",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_11",
+    "module_label": "SP7.11 - Digital Asset Management",
+    "module_title": "Digital Asset Management",
+    "module_slug": "digital_asset_management",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_5",
+    "module_label": "SP7.5 - License Tracking",
+    "module_title": "License Tracking",
+    "module_slug": "license_tracking",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_10",
+    "module_label": "SP7.10 - Product Release Tracking",
+    "module_title": "Product Release Tracking",
+    "module_slug": "product_release_tracking",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_4",
+    "module_label": "SP7.4 - SaaS Subscription Management",
+    "module_title": "SaaS Subscription Management",
+    "module_slug": "saas_subscription_management",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  },
+  {
+    "module_code": "sp7_9",
+    "module_label": "SP7.9 - Version Control Integration",
+    "module_title": "Version Control Integration",
+    "module_slug": "version_control_integration",
+    "app_code": "sp7",
+    "app_label": "SP7 - Technology & Information",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp7/sp7.1.md"
+  }
+]
